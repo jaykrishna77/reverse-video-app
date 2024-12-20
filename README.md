@@ -36,8 +36,7 @@ The **Reverse Video App** allows users to upload a video, which is then processe
 ### Clone the Repository
 
 
-git clone https://github.com/Sathwik9418/reverse-video-app.git
-cd reverse-video-app
+git clone   https://github.com/jaykrishna77/reverse-video-app
 
 
 ### Set Up the Backend
